@@ -9,6 +9,8 @@ RAW DATA: The program imports data from the "CPD-Mental-Health/Raw Data" folder.
 PROCESSED DATA: The program exports data to the "CPD-Mental-Health/Processed Data" folder.
 
 USAGE NOTES: 
+Data is primarily used for creation of this map: https://public.flourish.studio/visualisation/24717626/
+
 The processed data is a count of TRRs by Ward and Subject Race. This represents each report filed by an officer. 
 
 Note that multiple officers often fill out a TRR for the same subject. This should NOT be used as a count of UNIQUE incidents, but rather a count of officers who used force on a given subject.
