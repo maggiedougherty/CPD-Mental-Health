@@ -1,4 +1,4 @@
-# FOUNDATIONS OF INTERACTIVE 
+# MEDILL INVESTIGATIVE LAB
 # Author: Maggie Dougherty
 # Date: January 20, 2025
 # Updated: Aug 17, 2025 for fact checking
