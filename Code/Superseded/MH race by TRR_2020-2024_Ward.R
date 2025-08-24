@@ -60,6 +60,6 @@ subj_dem_wide <- subject_demographics %>%
   )
 
 # export data
-writexl::write_xlsx(subj_dem_wide, 'Processed Data/Subject Demographics_Mental Health Flag_TRRs.xlsx')
+writexl::write_xlsx(subj_dem_wide, 'Processed Data/Subject Demographics_Mental Health Flag_TRRs_Ward.xlsx')
 
 # end of file
